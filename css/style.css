@@ -1,0 +1,16 @@
+#Page_header {
+    display: grid;
+    height: 10vh;
+    place-items: center;
+    grid-template-columns: 1fr 1fr;
+}
+#page_main {
+    display: grid;
+    height: 80vh;
+    place-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#page_footer {
+    display: grid;
+    height: 10vh;
+}
